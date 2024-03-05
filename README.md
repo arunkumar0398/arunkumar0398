@@ -16,10 +16,6 @@
 <br/><br/>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="600" height="400" alt="Arunkumar_S Dev Card"/>
-</div>
-
 ---
 
 <div align="center">
