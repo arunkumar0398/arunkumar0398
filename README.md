@@ -77,6 +77,10 @@
 [![](https://github-readme-stats.vercel.app/api?username=arunkumar0398&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/arunkumar0398)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=arunkumar0398&theme=tokyonight&hide_border=true)](https://github.com/arunkumar0398)
 
+<div style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar0398&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" width="600" height="600" alt="languages graph" />
+</div>
+
 </div>
 </div>
 
