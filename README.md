@@ -80,9 +80,9 @@
 </div>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar0398&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" width="300" height="300" alt="languages graph" />
-
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar0398&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" width="300" height="300" alt="languages graph" />
 
 ![](https://komarev.com/ghpvc/?username=arunkumar0398&style=flat-square)
 
