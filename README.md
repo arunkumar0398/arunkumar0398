@@ -1,5 +1,5 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Arunkumar S<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Frontend developer...</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;" align="center">Frontend developer...</h3>
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently Next.js with Node.js, Tailwind CSS, Mongo DB)</li>
